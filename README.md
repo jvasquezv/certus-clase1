@@ -1,8 +1,5 @@
 # certus-clase1
+He realizado más cambios.
 
-Información de la clase 1
 
-Docente: Joel Vásquez Villalobos.
-
-Certus
 
